@@ -1,0 +1,9 @@
+.sideNav{
+  position:fixed;
+  margin:0;
+  padding: 0;
+  height:100%;
+  width:15%;
+  background-color: rgb(164, 239, 255);
+
+}

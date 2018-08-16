@@ -1,0 +1,13 @@
+.nav{
+  position:fixed;
+  float:left;
+
+
+  height:100%;
+  width:20%;
+
+  margin-top: 3rem;
+
+  background-color: rgb(73, 76, 88, 0.5);
+
+}

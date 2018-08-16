@@ -1,0 +1,26 @@
+.section{
+  position: static;
+  float: right;
+  display: flex;
+  padding-top: 0;
+  margin-left: 3rem;
+  padding-left: 3rem;
+
+
+
+}
+.select{
+  padding-left: 18em;
+  position: relative;
+  padding-top: 4em;
+}
+#nav{
+  float:left;
+  width: 18rem;
+  height:auto;
+}
+.list{
+  height:6rem;
+  border-color: red;
+
+}

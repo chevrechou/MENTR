@@ -1,0 +1,28 @@
+.modal{
+  border-color: red;
+}
+.description {
+  line-height: 0rem;
+  font-style: 10rem;
+
+
+}
+.teacher-section{
+  margin-left: 15em;
+  padding-top: 6em;
+}
+.teacher-section h3{
+  font-size: 1rem;
+
+}
+.teacher-section p{
+  float:center;
+}
+h5{
+  font-size: 1rem;
+}
+.inside-description{
+  margin-left: 2rem;
+  padding-left: 2rem;
+
+}
